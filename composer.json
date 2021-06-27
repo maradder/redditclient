@@ -1,0 +1,11 @@
+{
+    "name": "marcuslinux/reddit-app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Marcus Radder",
+            "email": "marcusradder@gmail.com"
+        }
+    ],
+    "require": {}
+}
